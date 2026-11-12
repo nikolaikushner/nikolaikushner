@@ -1,6 +1,6 @@
 # Hi, I'm Nikolai 👋
 
- Software Engineer and do a bit of product engineering on the side: I build my own apps and take them all the way to release.
+I am a Senior Software Engineer and do a bit of product engineering on the side: I build my own apps and take them all the way to release.
 
 ## What I'm doing now
 
