@@ -1,6 +1,6 @@
 # Hi, I'm Nikolai 👋
 
-I'm from Belarus and live in Georgia. I work as a Senior Software Engineer (Frontend) and do a bit of product engineering on the side: I build my own apps and take them all the way to release.
+ Software Engineer and do a bit of product engineering on the side: I build my own apps and take them all the way to release.
 
 ## What I'm doing now
 
