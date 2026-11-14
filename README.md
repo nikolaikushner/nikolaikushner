@@ -1,16 +1,20 @@
-# Hi, I'm Nikolai 👋
+# Nikolai Kushner
 
-I am a Senior Software Engineer and do a bit of product engineering on the side: I build my own apps and take them all the way to release.
+Senior Software Engineer. I work mostly on web products in TypeScript, and on iOS and macOS apps in Swift.
 
-## What I'm doing now
+My day-job code is private, and so are the main repositories of my own products. What is public here is the open-source part.
 
-- 📱 [**Reps: English Drills**](https://apps.apple.com/app/reps-english-drills/id6816098697): my iOS app for practicing English in short daily drills
-- 🌐 [**vibenglish.app**](https://vibenglish.app/): a website for learning English
-- 🧼 [**rinse**](https://github.com/NikolaiKushner/rinse): a Safari extension that blocks ads, including on YouTube
-- 📊 [**rowkit**](https://rowkit.dev/): a Vue 3 library for tables and filters
-- 🍪 [**nomnomtokens**](https://github.com/NikolaiKushner/nomnomtokens): shows how much Claude Code costs you
-- 🖼️ [**canvas-deck**](https://github.com/NikolaiKushner/canvas-deck): a macOS canvas for working with Claude Code agents
-- 🏝️ [**island**](https://github.com/NikolaiKushner/island): an EN↔RU translator that lives in the MacBook notch
+## Products
+
+- [**vibenglish**](https://vibenglish.app/): a web app for learning English with spaced repetition, grammar courses and short stories. Its iOS companion is [English. Again](https://apps.apple.com/app/id6816098697).
+- [**rinse**](https://apps.apple.com/app/rinse-ad-blocker-for-safari/id6827144226?mt=12): an ad blocker for Safari on the Mac App Store. [Source](https://github.com/NikolaiKushner/rinse).
+
+## Open source
+
+- [**rowkit**](https://rowkit.dev/): a Vue 3 component library for data-dense interfaces. In beta.
+- [**nomnomtokens**](https://github.com/NikolaiKushner/nomnomtokens): a local dashboard for Claude Code spend.
+- [**canvas-deck**](https://github.com/NikolaiKushner/canvas-deck): a macOS canvas for running Claude Code agents side by side.
+- [**island**](https://github.com/NikolaiKushner/island): an on-device EN↔RU translator in the MacBook notch.
 
 ## Stack
 
