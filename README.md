@@ -1,10 +1,14 @@
 # Nikolai Kushner
 
-Senior Software Engineer. I work mostly on web products in TypeScript, and on iOS and macOS apps in Swift.
+Senior Software Engineer with 8+ years of experience building data-heavy web products: dashboards, large tables, filters, reports and shared UI components.
 
-My day-job code is private, and so are the main repositories of my own products. What is public here is the open-source part.
+For the past six years I have worked on an SEO analytics platform, mostly on the frontend and more recently on the backend as well.
 
-## Products
+Today most of my code is written by AI coding agents that I direct. I design the architecture, write the specs and project rules, run several agents in parallel, and review every change before it ships.
+
+Work code is private. The projects below are personal, built in my own time.
+
+## Personal projects
 
 - [**vibenglish**](https://vibenglish.app/): a web app for learning English with spaced repetition, grammar courses and short stories. Its iOS companion is [English. Again](https://apps.apple.com/app/id6816098697).
 - [**rinse**](https://apps.apple.com/app/rinse-ad-blocker-for-safari/id6827144226?mt=12): an ad blocker for Safari on the Mac App Store. [Source](https://github.com/NikolaiKushner/rinse).
@@ -15,10 +19,19 @@ My day-job code is private, and so are the main repositories of my own products.
 - [**nomnomtokens**](https://github.com/NikolaiKushner/nomnomtokens): a local dashboard for Claude Code spend.
 - [**canvas-deck**](https://github.com/NikolaiKushner/canvas-deck): a macOS canvas for running Claude Code agents side by side.
 - [**island**](https://github.com/NikolaiKushner/island): an on-device EN↔RU translator in the MacBook notch.
+- [**getlnk**](https://github.com/NikolaiKushner/get-lnk): an open-source link-in-bio service.
 
-## Stack
+## Skills
 
-TypeScript · Vue · Nuxt · Next.js · Node.js · PostgreSQL · Swift · SwiftUI
+**Frontend:** TypeScript · Vue 3 · Nuxt · Pinia · React · Next.js (App Router) · Tailwind CSS · Storybook · design tokens · component libraries
+
+**Backend:** Node.js · PostgreSQL · Prisma · Drizzle · SQLite · Supabase · Auth.js · REST APIs · background jobs · server-side Swift
+
+**Apple platforms:** Swift · SwiftUI · iOS · macOS · Safari extensions · StoreKit and in-app purchases · App Store releases
+
+**AI:** Claude Code · Codex · multi-agent workflows · agent rules (CLAUDE.md, AGENTS.md) · LLM APIs (Vercel AI SDK, Anthropic, OpenAI)
+
+**Quality and delivery:** Vitest · Playwright · GitHub Actions · release automation · monorepos (pnpm) · Vercel · Docker
 
 ## Contact
 
