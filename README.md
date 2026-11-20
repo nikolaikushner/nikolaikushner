@@ -19,7 +19,6 @@ Work code is private. The projects below are personal, built in my own time.
 - [**nomnomtokens**](https://github.com/NikolaiKushner/nomnomtokens): a local dashboard for Claude Code spend.
 - [**canvas-deck**](https://github.com/NikolaiKushner/canvas-deck): a macOS canvas for running Claude Code agents side by side.
 - [**island**](https://github.com/NikolaiKushner/island): an on-device EN↔RU translator in the MacBook notch.
-- [**getlnk**](https://github.com/NikolaiKushner/get-lnk): an open-source link-in-bio service.
 
 ## Skills
 
